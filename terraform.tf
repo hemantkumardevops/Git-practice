@@ -10,3 +10,5 @@ terraform {
 provider "azurerm" {
   features {}
 }
+
+"My name is Rahul"
