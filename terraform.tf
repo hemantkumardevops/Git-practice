@@ -21,3 +21,4 @@ this line is for git rebase3
 
 commit1
 commit2
+commit3
